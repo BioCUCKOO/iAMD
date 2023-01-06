@@ -83,4 +83,4 @@ The main requirements are listed below:
 
 ## The description of Additional_Models
 
-    The model, data and code are used to predict the potential functional interacting partners and substrates of TORC1, Gcn2, Rim15, Yak1, Slt2 and Npr1 in autophagy using iAMD.
+The model, data and code are used to predict the potential functional interacting partners and substrates of TORC1, Gcn2, Rim15, Yak1, Slt2 and Npr1 in autophagy using iAMD.
